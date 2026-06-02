@@ -14,7 +14,7 @@ and delivered a formatted multi-sheet Excel workbook with visualizations.
 |--------|------|
 | 📗 Excel Workbook | [Google Sheets](https://docs.google.com/spreadsheets/d/1cp5fRA8mbPuci_8Ntdpz5lBX9a3ZTbRo/edit?usp=sharing&ouid=107564873355874201227&rtpof=true&sd=true) |
 | 📈 Charts | [View PNG](https://drive.google.com/file/d/1SkU2d9zXtV0eaSb0z09hBe8GbbN6XkQL/view?usp=sharing) |
-| 📓 Notebook | `TB_Global_Analysis.ipynb` |
+| 📓 Notebook | [GitHub](https://github.com/AnfisaAnalytics/tb-global-analysis-python/blob/5e3524e1f6d9c6679b6584b78d75c82e3abd7fce/TB_Global_Analysis.ipynb) |
 
 ## Key Findings
 
